@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87B29F73-2594-498D-82A5-ABD5DB4FA435</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MagicTrains</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F59E38C47B269BDF5388D33C8BDB8DC0E8E1A876</key>
+		<string>http://bitbucket.org/magictrains/mw.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MagicTrains/MagicTrains.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F59E38C47B269BDF5388D33C8BDB8DC0E8E1A876</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://bitbucket.org/magictrains/mw.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F59E38C47B269BDF5388D33C8BDB8DC0E8E1A876</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F59E38C47B269BDF5388D33C8BDB8DC0E8E1A876</string>
+			<key>IDESourceControlWCCName</key>
+			<string>graf_bz</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2553a" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="ipad12_9" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="1366" height="1024"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="STARTUP_BG" translatesAutoresizingMaskIntoConstraints="NO" id="QU6-aS-U2j">
+                    <rect key="frame" x="171" y="128" width="1024" height="768"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="QU6-aS-U2j" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="3Vd-6U-lUB"/>
+                <constraint firstAttribute="bottom" secondItem="QU6-aS-U2j" secondAttribute="bottom" id="Cvc-QX-iXs"/>
+                <constraint firstAttribute="trailing" secondItem="QU6-aS-U2j" secondAttribute="trailing" id="lvG-BN-zxp"/>
+                <constraint firstItem="QU6-aS-U2j" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="m8d-x9-lm5"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <point key="canvasLocation" x="591.5" y="445"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="STARTUP_BG" width="1365" height="1024"/>
+    </resources>
+</document>
